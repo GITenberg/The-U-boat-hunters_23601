@@ -1,0 +1,31 @@
+_repo: The-U-boat-hunters_23601
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Connolly, James B. (James Brendan)
+    alias: Connolly, James Brendan
+    birthdate: 1868
+    deathdate: 1957
+    gutenberg_agent_id: '5241'
+    url: http://www.gutenberg.org/2009/agents/5241
+    wikipedia: http://en.wikipedia.org/wiki/James_Connolly_(athlete)
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2007-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23601'
+  lccn: '18013317'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'United States. Navy'
+- !lcsh 'World War, 1914-1918 -- Naval operations'
+title: The U-boat hunters
+url: http://www.gutenberg.org/ebooks/23601
