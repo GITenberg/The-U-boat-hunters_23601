@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5241
     wikipedia: http://en.wikipedia.org/wiki/James_Connolly_(athlete)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23601#The-U-boat-hunters
 gutenberg_bookshelf: World War I
 gutenberg_issued: '2007-11-23'
 gutenberg_type: Text
